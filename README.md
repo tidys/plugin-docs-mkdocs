@@ -1,5 +1,4 @@
 # Cocos-Creator插件小王子官方文档
-## 访问地址: https://tidys.github.io/docs/
 ## 本地开发编写
 1. 首先需要安装python环境,版本2.7
 2. 安装mkdocs模块: **pip install mkdocs**
