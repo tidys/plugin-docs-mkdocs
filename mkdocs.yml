@@ -1,0 +1,5 @@
+site_name: 插件小王子官方文档
+theme: readthedocs
+pages:
+- 主页: index.md
+- 关于: about.md
