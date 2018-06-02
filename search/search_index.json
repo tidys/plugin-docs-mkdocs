@@ -1,0 +1,44 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "\u8bf4\u660e\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\n\u6211\u662f\u6765\u6d4b\u8bd5\u7684\n\n\ntest\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "\u4e3b\u9875"
+        }, 
+        {
+            "location": "/#_1", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "\u8bf4\u660e"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#_2", 
+            "text": "", 
+            "title": "\u6211\u662f\u6765\u6d4b\u8bd5\u7684"
+        }, 
+        {
+            "location": "/#test", 
+            "text": "", 
+            "title": "test"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "\u5173\u4e8e", 
+            "title": "\u5173\u4e8e"
+        }, 
+        {
+            "location": "/about/#_1", 
+            "text": "", 
+            "title": "\u5173\u4e8e"
+        }
+    ]
+}
