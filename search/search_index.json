@@ -2,43 +2,33 @@
     "docs": [
         {
             "location": "/", 
-            "text": "\u8bf4\u660e\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\n\u6211\u662f\u6765\u6d4b\u8bd5\u7684\n\n\ntest\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "\u4e3b\u9875\n\n\n\u6b64\u6587\u6863\u4e3a\u4f5c\u8005\u5728\u5f00\u53d1creator\u8fc7\u7a0b\u4e2d\u7f16\u5199\u7684\u63d2\u4ef6\u6587\u6863\n\n\n\u76ee\u524d\u4f5c\u8005\u7f16\u5199\u7684\u63d2\u4ef6\u6709\n- \u70ed\u66f4\u65b0\u63d2\u4ef6\n- bugly\u63d2\u4ef6", 
             "title": "\u4e3b\u9875"
         }, 
         {
             "location": "/#_1", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "\u8bf4\u660e"
-        }, 
-        {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
-        }, 
-        {
-            "location": "/#_2", 
-            "text": "", 
-            "title": "\u6211\u662f\u6765\u6d4b\u8bd5\u7684"
-        }, 
-        {
-            "location": "/#test", 
-            "text": "", 
-            "title": "test"
-        }, 
-        {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "text": "\u6b64\u6587\u6863\u4e3a\u4f5c\u8005\u5728\u5f00\u53d1creator\u8fc7\u7a0b\u4e2d\u7f16\u5199\u7684\u63d2\u4ef6\u6587\u6863  \u76ee\u524d\u4f5c\u8005\u7f16\u5199\u7684\u63d2\u4ef6\u6709\n- \u70ed\u66f4\u65b0\u63d2\u4ef6\n- bugly\u63d2\u4ef6", 
+            "title": "\u4e3b\u9875"
         }, 
         {
             "location": "/about/", 
-            "text": "\u5173\u4e8e", 
+            "text": "\u5173\u4e8e\n\n\n\u4f5c\u8005\u4e3acocos\u7c89,\u6240\u7f16\u5199\u7684\u63d2\u4ef6\u4e3a\u81ea\u5df1\u6e38\u620f\u5f00\u53d1\u751f\u6daf\u7684\u4e00\u4e2a\u5c0f\u91cc\u7a0b\u7891,\u5e0c\u671b\u80fd\u4e3a\u5927\u5bb6\u63d0\u4f9b\u4e00\u4e9b\u5e2e\u52a9,\u4e0d\u80dc\u8363\u5e78!", 
             "title": "\u5173\u4e8e"
         }, 
         {
             "location": "/about/#_1", 
-            "text": "", 
+            "text": "\u4f5c\u8005\u4e3acocos\u7c89,\u6240\u7f16\u5199\u7684\u63d2\u4ef6\u4e3a\u81ea\u5df1\u6e38\u620f\u5f00\u53d1\u751f\u6daf\u7684\u4e00\u4e2a\u5c0f\u91cc\u7a0b\u7891,\u5e0c\u671b\u80fd\u4e3a\u5927\u5bb6\u63d0\u4f9b\u4e00\u4e9b\u5e2e\u52a9,\u4e0d\u80dc\u8363\u5e78!", 
             "title": "\u5173\u4e8e"
+        }, 
+        {
+            "location": "/lib-gojs/", 
+            "text": "GoJs\u5b98\u65b9\u6587\u6863\u7ffb\u8bd1", 
+            "title": "GoJs"
+        }, 
+        {
+            "location": "/lib-gojs/#gojs", 
+            "text": "", 
+            "title": "GoJs\u5b98\u65b9\u6587\u6863\u7ffb\u8bd1"
         }
     ]
 }
