@@ -1,19 +1,19 @@
-# 说明
+# 主页
+此文档为作者在开发creator过程中编写的插件文档  
+目前作者编写的插件有   
+-  热更新插件   
+-  bugly插件   
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+## 测试示例代码
+```js
+function(){
+	console.log('hello js!');
+}
 
-## Commands
+```
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-## 我是来测试的 
-## test
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+
+

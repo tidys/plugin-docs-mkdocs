@@ -1,5 +1,20 @@
 site_name: 插件小王子官方文档
+site_url: https://tidys.github.io/docs/
+site_description: cocos-creator plugin docs
+site_author: xuyanfeng
+repo_url: https://github.com/tidys/docs
 theme: readthedocs
+#theme: mkdocs
 pages:
 - 主页: index.md
 - 关于: about.md
+- GoJs: lib-gojs.md
+- AVG-Maker: avgmaker/index.md
+- A:
+  - 初始化: avgmaker/init.md
+
+markdown_extensions:
+  - toc
+  - smarty
+plugins:
+  - search

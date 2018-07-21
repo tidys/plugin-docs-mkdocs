@@ -13,3 +13,7 @@ mkdocs gh-deploy
 - 该命令会将文档生成到site目录,并自动上传到gh-pages分支,理论上是不能手动修改该分支的
 
 - 详细的说明见[MKDoc官方部署文档](https://www.mkdocs.org/user-guide/deploying-your-docs/)
+
+
+## 说明
+因为技术栈使用的是python,所以,不是太喜欢,最终决定采用和cocos creator官方一致的gitbook来编写文档
