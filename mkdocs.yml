@@ -8,10 +8,11 @@ theme: readthedocs
 pages:
 - 主页: index.md
 - 关于: about.md
-- GoJs: lib-gojs.md
-- AVG-Maker: avgmaker/index.md
-- A:
-  - 初始化: avgmaker/init.md
+- GoJs: gojs/lib-gojs.md
+- AVG-Maker:
+  - 准备工作: avgmaker/ready/index.md
+  - 使用说明: avgmaker/tutorial/index.md
+  - 常见问题: avgmaker/issue/index.md
 
 markdown_extensions:
   - toc
